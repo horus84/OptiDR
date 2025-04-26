@@ -1,4 +1,4 @@
-# OptIDR – Early Detection of Diabetic Retinopathy (DR) with Explainable AI
+# OptIDR – Early Detection of Diabetic Retinopathy
 
 *OptIDR* combines cutting-edge deep learning with intuitive explainability to detect DR severity (0–4) from retinal fundus images, delivered via a Streamlit web demo. Early diagnosis can prevent up to 95% of vision loss—crucial for communities with limited ophthalmology access.
 
