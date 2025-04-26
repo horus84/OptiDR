@@ -45,6 +45,7 @@ Diabetic retinopathy (DR) is the leading cause of adult blindness worldwide. Reg
 | EfficientNetB5 (Keras) |       85.00% |        0.9190 |        0.9345 |                   35  |         30 |         0.033  |
 | ResNeXt50 (PyTorch)    |       83.00% |        0.8912 |        0.9215 |                   16  |         25 |        0.1744 |
 
+![EfficientNetB5 Model Summary](./results_insights/7ef5fa38-5567-454a-97b2-ca13bed961e3.png)
 
 ---
 
