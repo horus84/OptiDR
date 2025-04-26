@@ -35,7 +35,7 @@ Diabetic retinopathy (DR) is the leading cause of adult blindness worldwide. Reg
 | Model Training   | TensorFlow (Keras) / PyTorch      |
 | Explainability   | OpenCV, Grad-CAM                  |
 | Web Demo         | Streamlit                         |
-| Optimization     | TensorFlow Lite (quantization), ONNX |
+| Optimization     | Adam |
 
 ---
 
