@@ -12,7 +12,7 @@ from streamlit.components.v1 import html
 def load_model():
     model = models.resnext101_32x8d(weights=None)
     model.fc = torch.nn.Linear(model.fc.in_features, 5)
-    model.load_state_dict(torch.load('model.pt', map_location=torch.device('cpu')))
+    model.load_state_dict(torch.load('OptiDR/model.pt', map_location=torch.device('cpu')))
     return model.eval()
 
 model = load_model()
